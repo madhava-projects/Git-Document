@@ -45,3 +45,9 @@ Installing Git for Windows
 12. Depending on the version of Git you’re installing, it may offer to install experimental features. At the time this article was written, the options to include support for pseudo controls and a built-in file system monitor were offered. Unless you are feeling adventurous, leave them unchecked and click Install.
 13. Once the installation is complete, tick the boxes to view the Release Notes or Launch Git Bash, then click Finish.
 
+Git Commands:
+1. Know the version of Git: git --version
+2. A directory into an empty Git repository:  git init
+3. 
+
+

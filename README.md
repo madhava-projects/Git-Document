@@ -58,6 +58,11 @@ Git Commands:
 10. integrate branchs together: git merge project1
 11. connects a local repository with a remote repository:git remote add origin https://github.com/madhava-projects/Git-Document.git
 12. create a local working copy of an existing remote repository: git clone https://github.com/madhava-projects/Git-Document.git
-13. 
+13. commits history from local to git hub: git pull origin master: git pull origin master
+14. commits history from remote git hub to local: git push origin master
+15. to save changes made when are not in a state to commit them to a repository:git stash apply
+16. context & history for a repository: git log
+17. rollback to the previous state: git revert mychange
+18. 
 
 

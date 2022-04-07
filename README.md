@@ -48,6 +48,16 @@ Installing Git for Windows
 Git Commands:
 1. Know the version of Git: git --version
 2. A directory into an empty Git repository:  git init
-3. 
+3. add all files to the stagging area: git add .
+4. record changesmade :git commit -m 'madhava-projects'
+5. current state of repository : git status
+6. assign settings user name to git: git config --global user.name "madhava-projects"
+7. assign settings user email to git:git config --global user.email "madhavaraomaganti@gmail.com"
+8. create and checkout current branchs:git branch project1      git branch
+9. swithcing branchs :git checkout project1
+10. integrate branchs together: git merge project1
+11. connects a local repository with a remote repository:
+12. 
+13. 
 
 

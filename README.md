@@ -56,8 +56,8 @@ Git Commands:
 8. create and checkout current branchs:git branch project1      git branch
 9. swithcing branchs :git checkout project1
 10. integrate branchs together: git merge project1
-11. connects a local repository with a remote repository:
-12. 
+11. connects a local repository with a remote repository:git remote add origin https://github.com/madhava-projects/Git-Document.git
+12. create a local working copy of an existing remote repository: git clone https://github.com/madhava-projects/Git-Document.git
 13. 
 
 
